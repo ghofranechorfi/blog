@@ -1,0 +1,36 @@
+* {
+    margin: auto;
+    color: black;
+    font-weight: bolder;
+}
+
+.navbar {
+    background-color: rgb(204, 226, 245);
+}
+
+.list-item {
+    display: flex;
+    justify-content: center;
+}
+
+.item {
+    list-style-type: none;
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(67, 116, 122);
+}
+
+.container {
+    margin: 2rem;
+}
+
+.bodytext {
+    text-align: center;
+    color: rgb(76, 107, 245);
+}
